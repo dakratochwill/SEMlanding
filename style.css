@@ -26,6 +26,10 @@ footer {
     margin: 0px auto;
 }
 
+.section {
+    background: #fff;
+}
+
 img {
     max-width: 100%;
     height: auto;
